@@ -182,7 +182,9 @@ namespace Phoebe.Neo {
 
 			// Fire events.
 			if (doJump) {
-				OnJump.Invoke();
+                if (OnJump != null) {
+				    OnJump.Invoke();
+                }
 			}
 			if (landed) {
 				if (hardLand) {

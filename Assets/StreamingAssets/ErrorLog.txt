@@ -1,0 +1,808 @@
+Time:[12/4 5:0:38] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:99)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:0:38] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:2:49] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:99)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:2:49] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:4:1] Load Prefab/UI/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:4:1] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:4:1] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:4:41] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:4:47] Load Prefab/UI/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:4:47] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:4:47] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:6:11] Load Prefab/UI/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:6:11] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:6:11] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:7:12] Load Prefab/UI/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:7:12] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:7:12] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:8:8] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:8:16] Load Prefab/UI/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:8:16] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:8:16] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:11:6] Load UIPrefab/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:11:6] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:11:6] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:11:15] Load UIPrefab/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:11:15] ResourceLoader:Can't find object with name:'PausePanel',please check your ResourceType and Name is true.
+UnityEngine.Debug:LogError(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:100)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Error
+
+Time:[12/4 5:11:15] ObjectPool:Can't add object with name: 'PausePanel'. Please make sure your ResourceType and object name true.
+UnityEngine.Debug:LogWarning(Object)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:44)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Warning
+
+Time:[12/4 5:11:33] Load UIPrefab/PausePanel
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.ResourceLoader:Load(ResourceType, String) (at Assets/Scripts/ResourceLoader.cs:96)
+Phoebe.Neo.Base.ObjectPool:AddObject(ResourceType, String) (at Assets/Scripts/Base/ObjectPool.cs:41)
+Phoebe.Neo.UI.UIManager:Startup() (at Assets/Scripts/UI/UIManager.cs:36)
+Phoebe.Neo.Managers:Awake() (at Assets/Scripts/Managers.cs:23)
+Log
+
+Time:[12/4 5:11:53] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:11:53] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:57)
+Phoebe.Neo.UI.UIManager.PushPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:47)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:12:37] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:12:37] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:12:37] Assets\Scripts\GameManager.cs(51,46): error CS1503: Argument 1: cannot convert from 'Phoebe.Neo.UI.Panels.UIPanelType' to 'string'
+Error
+
+Time:[12/4 5:12:37] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:12:37] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:12:37] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:12:37] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:12:37] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\GameManager.cs(51,69): error CS1061: 'UIPanelType' does not contain a definition for 'name' and no accessible extension method 'name' accepting a first argument of type 'UIPanelType' could be found (are you missing a using directive or an assembly reference?)
+Error
+
+Time:[12/4 5:13:4] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:13:4] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:14:27] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:14:54] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:14:54] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:57)
+Phoebe.Neo.UI.UIManager.PushPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:47)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:15:55] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:15:55] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:57)
+Phoebe.Neo.UI.UIManager.PushPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:47)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:16:3] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:3] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:3] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:4] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:7] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:7] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:19] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:16:22] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:16:22] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:57)
+Phoebe.Neo.UI.UIManager.PushPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:47)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:19:38] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:19:38] Assets\Scripts\UI\UIManager.cs(17,27): warning CS0649: Field 'UIManager.MainPanel' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:19:46] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:19:46] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:75)
+Phoebe.Neo.UI.UIManager.PushPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:65)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:19:56] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
+Time:[12/4 5:20:1] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:20:1] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:75)
+Phoebe.Neo.UI.UIManager.PushPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:65)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:21:36] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\GameManager.cs(51,46): error CS1503: Argument 1: cannot convert from 'Phoebe.Neo.UI.Panels.UIPanelType' to 'string'
+Error
+
+Time:[12/4 5:21:36] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:21:36] Assets\Scripts\UI\UIManager.cs(17,27): warning CS0649: Field 'UIManager.MainPanel' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:22:57] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:23:5] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:23:5] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:90)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:26:42] Assets\Scripts\GameManager.cs(51,70): error CS1525: Invalid expression term '{'
+Error
+
+Time:[12/4 5:26:42] Assets\Scripts\GameManager.cs(51,70): error CS1026: ) expected
+Error
+
+Time:[12/4 5:26:42] Assets\Scripts\GameManager.cs(51,70): error CS1002: ; expected
+Error
+
+Time:[12/4 5:26:42] Assets\Scripts\GameManager.cs(51,72): error CS1513: } expected
+Error
+
+Time:[12/4 5:27:18] Assets\Scripts\GameManager.cs(51,21): error CS1002: ; expected
+Error
+
+Time:[12/4 5:27:18] Assets\Scripts\GameManager.cs(51,21): error CS1513: } expected
+Error
+
+Time:[12/4 5:27:18] Assets\Scripts\GameManager.cs(51,28): error CS1525: Invalid expression term '='
+Error
+
+Time:[12/4 5:27:18] Assets\Scripts\GameManager.cs(51,62): error CS1002: ; expected
+Error
+
+Time:[12/4 5:27:18] Assets\Scripts\GameManager.cs(52,70): error CS1525: Invalid expression term 'params'
+Error
+
+Time:[12/4 5:27:18] Assets\Scripts\GameManager.cs(52,70): error CS1003: Syntax error, ',' expected
+Error
+
+Time:[12/4 5:27:22] Assets\Scripts\GameManager.cs(51,21): error CS1002: ; expected
+Error
+
+Time:[12/4 5:27:22] Assets\Scripts\GameManager.cs(51,21): error CS1513: } expected
+Error
+
+Time:[12/4 5:27:22] Assets\Scripts\GameManager.cs(51,28): error CS1525: Invalid expression term '='
+Error
+
+Time:[12/4 5:27:22] Assets\Scripts\GameManager.cs(52,70): error CS1525: Invalid expression term 'params'
+Error
+
+Time:[12/4 5:27:22] Assets\Scripts\GameManager.cs(52,70): error CS1003: Syntax error, ',' expected
+Error
+
+Time:[12/4 5:27:48] Assets\Scripts\GameManager.cs(51,21): error CS1002: ; expected
+Error
+
+Time:[12/4 5:27:48] Assets\Scripts\GameManager.cs(51,21): error CS1513: } expected
+Error
+
+Time:[12/4 5:27:48] Assets\Scripts\GameManager.cs(51,28): error CS1525: Invalid expression term '='
+Error
+
+Time:[12/4 5:27:48] Assets\Scripts\GameManager.cs(52,70): error CS1525: Invalid expression term 'params'
+Error
+
+Time:[12/4 5:27:48] Assets\Scripts\GameManager.cs(52,70): error CS1003: Syntax error, ',' expected
+Error
+
+Time:[12/4 5:28:21] Assets\Scripts\GameManager.cs(51,21): error CS1002: ; expected
+Error
+
+Time:[12/4 5:28:21] Assets\Scripts\GameManager.cs(51,21): error CS1513: } expected
+Error
+
+Time:[12/4 5:28:21] Assets\Scripts\GameManager.cs(51,28): error CS1525: Invalid expression term '='
+Error
+
+Time:[12/4 5:28:21] Assets\Scripts\GameManager.cs(54,70): error CS1525: Invalid expression term 'params'
+Error
+
+Time:[12/4 5:28:21] Assets\Scripts\GameManager.cs(54,70): error CS1003: Syntax error, ',' expected
+Error
+
+Time:[12/4 5:28:32] Assets\Scripts\GameManager.cs(51,21): error CS1002: ; expected
+Error
+
+Time:[12/4 5:28:32] Assets\Scripts\GameManager.cs(51,21): error CS1513: } expected
+Error
+
+Time:[12/4 5:28:32] Assets\Scripts\GameManager.cs(51,28): error CS1525: Invalid expression term '='
+Error
+
+Time:[12/4 5:28:32] Assets\Scripts\GameManager.cs(54,70): error CS1525: Invalid expression term 'params'
+Error
+
+Time:[12/4 5:28:32] Assets\Scripts\GameManager.cs(54,70): error CS1003: Syntax error, ',' expected
+Error
+
+Time:[12/4 5:29:3] Assets\Scripts\GameManager.cs(51,21): error CS1002: ; expected
+Error
+
+Time:[12/4 5:29:3] Assets\Scripts\GameManager.cs(51,21): error CS1513: } expected
+Error
+
+Time:[12/4 5:29:3] Assets\Scripts\GameManager.cs(51,28): error CS1525: Invalid expression term '='
+Error
+
+Time:[12/4 5:29:3] Assets\Scripts\GameManager.cs(56,70): error CS1525: Invalid expression term 'params'
+Error
+
+Time:[12/4 5:29:3] Assets\Scripts\GameManager.cs(56,70): error CS1003: Syntax error, ',' expected
+Error
+
+Time:[12/4 5:29:27] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:29:27] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:29:27] Assets\Scripts\GameManager.cs(56,70): error CS1503: Argument 2: cannot convert from 'System.Collections.Generic.Dictionary<string, string>' to 'System.Collections.Generic.Dictionary<string, object>'
+Error
+
+Time:[12/4 5:29:27] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:29:27] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:29:27] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:29:27] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:29:27] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:30:6] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:30:14] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:30:14] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:90)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:56)
+Exception
+
+Time:[12/4 5:32:15] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:32:15] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:32:15] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:15] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:15] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:15] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:15] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:22] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:32:22] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:91)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:56)
+Exception
+
+Time:[12/4 5:32:54] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:32:54] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:32:54] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:54] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:54] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:54] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:32:54] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:33:1] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:33:1] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:91)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:56)
+Exception
+
+Time:[12/4 5:39:59] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:39:59] Assets\Scripts\UI\Panels\PausePanel.cs(16,30): error CS0115: 'PausePanel.Show()': no suitable method found to override
+Error
+
+Time:[12/4 5:39:59] Assets\Scripts\UI\Panels\PausePanel.cs(37,30): error CS0115: 'PausePanel.OnPause()': no suitable method found to override
+Error
+
+Time:[12/4 5:39:59] Assets\Scripts\UI\Panels\PausePanel.cs(42,30): error CS0115: 'PausePanel.OnResume()': no suitable method found to override
+Error
+
+Time:[12/4 5:39:59] Assets\Scripts\UI\Panels\PausePanel.cs(48,30): error CS0115: 'PausePanel.OnExit()': no suitable method found to override
+Error
+
+Time:[12/4 5:40:15] Assets\Scripts\Controller\CursorController.cs(7,7): warning CS0105: The using directive for 'Spine.Unity' appeared previously in this namespace
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\GameManager.cs(31,13): warning CS0618: 'Application.RegisterLogCallbackThreaded(Application.LogCallback)' is obsolete: 'Application.RegisterLogCallbackThreaded is deprecated. Use Application.logMessageReceivedThreaded instead.'
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\UI\HProgressBar.cs(21,32): warning CS0649: Field 'HProgressBar.RightButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\UI\HProgressBar.cs(27,24): warning CS0649: Field 'HProgressBar.Button_Pressed' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\UI\HProgressBar.cs(24,24): warning CS0649: Field 'HProgressBar.Button_HighLighted' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\UI\HProgressBar.cs(18,32): warning CS0649: Field 'HProgressBar.LeftButton' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\UI\Panels\PausePanel.cs(14,28): warning CS0649: Field 'PausePanel.HidingUI' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:40:15] Assets\Scripts\UI\HProgressBar.cs(15,27): warning CS0649: Field 'HProgressBar.HAnimProgress' is never assigned to, and will always have its default value null
+Warning
+
+Time:[12/4 5:40:25] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:40:25] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:91)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:40:47] Pause !!
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[12/4 5:40:47] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:90)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+
+Time:[12/4 5:40:57] E.
+UnityEngine.Debug:Log(Object)
+Phoebe.Neo.GameManager:Update() (at Assets/Scripts/GameManager.cs:46)
+Log
+
