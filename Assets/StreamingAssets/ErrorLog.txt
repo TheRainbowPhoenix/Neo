@@ -1,0 +1,13 @@
+Time:[6/24 0:1:39] Pause !!
+UnityEngine.Debug:Log (object)
+Phoebe.Neo.GameManager:Update () (at Assets/Scripts/GameManager.cs:50)
+Log
+
+Time:[6/24 0:1:39] NullReferenceException: Object reference not set to an instance of an object
+Phoebe.Neo.Base.ObjectPool.CreateNew (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:115)
+Phoebe.Neo.Base.ObjectPool.GetObject (System.String name, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/Base/ObjectPool.cs:109)
+Phoebe.Neo.UI.UIManager.GetPanel (System.String panelName, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic) (at Assets/Scripts/UI/UIManager.cs:90)
+Phoebe.Neo.UI.UIManager.PushPanel (Phoebe.Neo.UI.Panels.UIPanelType panelType, System.Collections.Generic.Dictionary`2[TKey,TValue] valueDic, System.Boolean IsStatic) (at Assets/Scripts/UI/UIManager.cs:64)
+Phoebe.Neo.GameManager.Update () (at Assets/Scripts/GameManager.cs:51)
+Exception
+

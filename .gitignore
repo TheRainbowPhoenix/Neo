@@ -73,3 +73,5 @@ crashlytics-build.properties
 
 /[Aa]ssets/Spine Examples/*
 /[Aa]ssets/Spine Examples.meta
+
+dist
