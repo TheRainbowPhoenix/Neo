@@ -6,9 +6,6 @@ jobs:
   buildForAllSupportedPlatforms:
     name: Build for ${{ matrix.targetPlatform }}
     runs-on: ubuntu-latest
-    concurrency:
-      group: build-unity
-      cancel-in-progress: true
     strategy:
       fail-fast: false
       matrix:
