@@ -39,7 +39,7 @@ jobs:
           UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           targetPlatform: ${{ matrix.targetPlatform }}
-          customImage: 'unityci/editor:2020.2.1f1-windows-mono-3'
+          customImage: 'unityci/editor:ubuntu-2020.3.48f1-windows-mono-3.1.0'
       - uses: actions/upload-artifact@v3
         with:
           name: Build-${{ matrix.targetPlatform }}
