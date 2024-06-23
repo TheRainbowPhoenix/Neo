@@ -1,0 +1,642 @@
+
+Girl.png
+size: 1000,1032
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Aim+
+  rotate: false
+  xy: 822, 458
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+AmmoShell
+  rotate: false
+  xy: 593, 519
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+AmmoShellSG
+  rotate: true
+  xy: 936, 629
+  size: 10, 5
+  orig: 12, 5
+  offset: 1, 0
+  index: -1
+Arm2_1
+  rotate: false
+  xy: 839, 278
+  size: 40, 88
+  orig: 42, 90
+  offset: 1, 1
+  index: -1
+BZ
+  rotate: true
+  xy: 888, 2
+  size: 23, 65
+  orig: 23, 65
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 822, 838
+  size: 87, 192
+  orig: 87, 192
+  offset: 0, 0
+  index: -1
+ClothA1_1
+  rotate: false
+  xy: 731, 348
+  size: 38, 93
+  orig: 40, 95
+  offset: 1, 1
+  index: -1
+ClothA1_2
+  rotate: true
+  xy: 460, 5
+  size: 38, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+ClothA2_1
+  rotate: false
+  xy: 830, 368
+  size: 42, 88
+  orig: 44, 90
+  offset: 1, 1
+  index: -1
+ClothA2_2
+  rotate: true
+  xy: 929, 349
+  size: 39, 56
+  orig: 41, 58
+  offset: 1, 1
+  index: -1
+ClothB
+  rotate: true
+  xy: 479, 104
+  size: 74, 139
+  orig: 74, 139
+  offset: 0, 0
+  index: -1
+ClothM2
+  rotate: true
+  xy: 572, 2
+  size: 41, 47
+  orig: 43, 47
+  offset: 2, 0
+  index: -1
+ClothMI
+  rotate: false
+  xy: 905, 76
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+ClothNUP
+  rotate: false
+  xy: 911, 838
+  size: 87, 192
+  orig: 87, 192
+  offset: 0, 0
+  index: -1
+ClothUP
+  rotate: true
+  xy: 593, 443
+  size: 74, 144
+  orig: 74, 144
+  offset: 0, 0
+  index: -1
+CrossBow_1
+  rotate: true
+  xy: 977, 668
+  size: 168, 16
+  orig: 170, 18
+  offset: 1, 1
+  index: -1
+CrossBow_2
+  rotate: false
+  xy: 853, 214
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+CrossBow_3
+  rotate: false
+  xy: 732, 2
+  size: 76, 12
+  orig: 76, 12
+  offset: 0, 0
+  index: -1
+CrossBow_4
+  rotate: true
+  xy: 879, 641
+  size: 195, 62
+  orig: 197, 64
+  offset: 1, 1
+  index: -1
+Dash_for
+  rotate: false
+  xy: 2, 617
+  size: 359, 413
+  orig: 610, 413
+  offset: 108, 0
+  index: -1
+Dash_for-Po
+  rotate: false
+  xy: 2, 204
+  size: 344, 411
+  orig: 610, 413
+  offset: 104, 2
+  index: -1
+Ear0
+  rotate: true
+  xy: 741, 180
+  size: 12, 18
+  orig: 14, 20
+  offset: 1, 1
+  index: -1
+Eye1
+  rotate: false
+  xy: 966, 246
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+Eye2
+  rotate: false
+  xy: 670, 35
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+Face
+  rotate: true
+  xy: 755, 275
+  size: 64, 82
+  orig: 64, 82
+  offset: 0, 0
+  index: -1
+Face_Hurt
+  rotate: true
+  xy: 950, 28
+  size: 46, 24
+  orig: 54, 29
+  offset: 4, 3
+  index: -1
+Grenade
+  rotate: false
+  xy: 418, 2
+  size: 19, 37
+  orig: 26, 46
+  offset: 4, 5
+  index: -1
+HCB
+  rotate: true
+  xy: 670, 2
+  size: 23, 60
+  orig: 23, 60
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 739, 446
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+HairB
+  rotate: true
+  xy: 746, 234
+  size: 39, 103
+  orig: 39, 103
+  offset: 0, 0
+  index: -1
+HandGun_01
+  rotate: true
+  xy: 881, 339
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+HandGun_02
+  rotate: true
+  xy: 874, 407
+  size: 82, 53
+  orig: 82, 53
+  offset: 0, 0
+  index: -1
+HandGun_03
+  rotate: true
+  xy: 929, 390
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1
+HandGun_04
+  rotate: true
+  xy: 881, 266
+  size: 71, 55
+  orig: 71, 55
+  offset: 0, 0
+  index: -1
+HandGun_05
+  rotate: true
+  xy: 828, 510
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+Hand_Gun
+  rotate: true
+  xy: 741, 194
+  size: 38, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+Hand_ShootGun
+  rotate: true
+  xy: 439, 7
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+Hand_woba
+  rotate: false
+  xy: 933, 226
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+KQ
+  rotate: false
+  xy: 943, 613
+  size: 32, 223
+  orig: 34, 225
+  offset: 1, 1
+  index: -1
+Leg1_2
+  rotate: true
+  xy: 591, 295
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+Leg2_2
+  rotate: true
+  xy: 587, 236
+  size: 57, 157
+  orig: 57, 158
+  offset: 0, 0
+  index: -1
+Leg_L1
+  rotate: false
+  xy: 883, 491
+  size: 51, 148
+  orig: 53, 150
+  offset: 1, 1
+  index: -1
+Leg_R1
+  rotate: true
+  xy: 587, 180
+  size: 54, 152
+  orig: 56, 154
+  offset: 1, 1
+  index: -1
+MeleeWeapon_01
+  rotate: true
+  xy: 979, 251
+  size: 96, 16
+  orig: 98, 18
+  offset: 1, 1
+  index: -1
+MeleeWeapon_02
+  rotate: true
+  xy: 620, 47
+  size: 131, 58
+  orig: 133, 60
+  offset: 1, 1
+  index: -1
+MeleeWeapon_03
+  rotate: false
+  xy: 655, 519
+  size: 171, 78
+  orig: 173, 80
+  offset: 1, 1
+  index: -1
+MeleeWeapon_04_1
+  rotate: true
+  xy: 851, 251
+  size: 13, 80
+  orig: 13, 80
+  offset: 0, 0
+  index: -1
+MeleeWeapon_04_2
+  rotate: true
+  xy: 2, 2
+  size: 35, 289
+  orig: 39, 291
+  offset: 3, 0
+  index: -1
+Mouth1
+  rotate: false
+  xy: 851, 266
+  size: 14, 10
+  orig: 16, 12
+  offset: 1, 1
+  index: -1
+Mouth2
+  rotate: true
+  xy: 293, 6
+  size: 14, 11
+  orig: 16, 13
+  offset: 1, 1
+  index: -1
+Mouth3
+  rotate: true
+  xy: 293, 22
+  size: 15, 11
+  orig: 17, 13
+  offset: 1, 1
+  index: -1
+Mouth4
+  rotate: false
+  xy: 761, 180
+  size: 15, 12
+  orig: 17, 14
+  offset: 1, 1
+  index: -1
+Pangci
+  rotate: false
+  xy: 810, 2
+  size: 76, 36
+  orig: 78, 38
+  offset: 1, 1
+  index: -1
+Po_Arm1_1
+  rotate: false
+  xy: 905, 124
+  size: 33, 88
+  orig: 35, 90
+  offset: 1, 1
+  index: -1
+Po_Arm1_2
+  rotate: true
+  xy: 789, 40
+  size: 35, 109
+  orig: 35, 109
+  offset: 0, 0
+  index: -1
+Po_Arm1_3
+  rotate: true
+  xy: 306, 2
+  size: 37, 110
+  orig: 38, 110
+  offset: 0, 0
+  index: -1
+Po_Arm2_1
+  rotate: false
+  xy: 938, 259
+  size: 39, 88
+  orig: 41, 90
+  offset: 1, 1
+  index: -1
+Po_Arm2_2B
+  rotate: false
+  xy: 771, 341
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+Po_Leg1_1
+  rotate: false
+  xy: 680, 27
+  size: 54, 151
+  orig: 56, 153
+  offset: 1, 1
+  index: -1
+Po_Leg1_2
+  rotate: false
+  xy: 736, 16
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+Po_LegR2
+  rotate: true
+  xy: 460, 45
+  size: 57, 158
+  orig: 57, 159
+  offset: 0, 0
+  index: -1
+Po_Leg_R2
+  rotate: false
+  xy: 936, 463
+  size: 51, 148
+  orig: 53, 150
+  offset: 1, 1
+  index: -1
+Po_Opai1
+  rotate: false
+  xy: 900, 27
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+Po_Opai2
+  rotate: true
+  xy: 621, 2
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Po_QZ1
+  rotate: true
+  xy: 789, 77
+  size: 115, 56
+  orig: 115, 56
+  offset: 0, 0
+  index: -1
+QZ1
+  rotate: true
+  xy: 847, 77
+  size: 115, 56
+  orig: 115, 56
+  offset: 0, 0
+  index: -1
+Rifle_01
+  rotate: false
+  xy: 348, 445
+  size: 243, 78
+  orig: 244, 82
+  offset: 1, 2
+  index: -1
+Rifle_02
+  rotate: false
+  xy: 348, 305
+  size: 241, 64
+  orig: 241, 64
+  offset: 0, 0
+  index: -1
+Rifle_03
+  rotate: false
+  xy: 348, 371
+  size: 241, 72
+  orig: 241, 72
+  offset: 0, 0
+  index: -1
+ShootGun_01
+  rotate: false
+  xy: 348, 242
+  size: 237, 61
+  orig: 237, 61
+  offset: 0, 0
+  index: -1
+ShootGun_02
+  rotate: true
+  xy: 823, 604
+  size: 232, 54
+  orig: 232, 54
+  offset: 0, 0
+  index: -1
+ShootGun_04
+  rotate: true
+  xy: 823, 604
+  size: 232, 54
+  orig: 232, 54
+  offset: 0, 0
+  index: -1
+ShootGun_03
+  rotate: false
+  xy: 348, 180
+  size: 237, 60
+  orig: 237, 60
+  offset: 0, 0
+  index: -1
+Sniper_01
+  rotate: false
+  xy: 348, 525
+  size: 305, 72
+  orig: 305, 72
+  offset: 0, 0
+  index: -1
+Sniper_02
+  rotate: false
+  xy: 2, 120
+  size: 306, 82
+  orig: 306, 82
+  offset: 0, 0
+  index: -1
+Sniper_03
+  rotate: false
+  xy: 2, 39
+  size: 302, 79
+  orig: 302, 79
+  offset: 0, 0
+  index: -1
+Submachine_01
+  rotate: false
+  xy: 591, 348
+  size: 138, 93
+  orig: 138, 93
+  offset: 0, 0
+  index: -1
+Submachine_02
+  rotate: false
+  xy: 306, 41
+  size: 152, 76
+  orig: 152, 76
+  offset: 0, 0
+  index: -1
+Submachine_03
+  rotate: false
+  xy: 310, 119
+  size: 167, 59
+  orig: 167, 59
+  offset: 0, 0
+  index: -1
+clip
+  rotate: true
+  xy: 310, 180
+  size: 22, 31
+  orig: 22, 32
+  offset: 0, 1
+  index: -1
+dash2
+  rotate: true
+  xy: 363, 599
+  size: 212, 458
+  orig: 247, 461
+  offset: 29, 0
+  index: -1
+dash2-Po
+  rotate: true
+  xy: 363, 813
+  size: 217, 457
+  orig: 247, 461
+  offset: 26, 4
+  index: -1
+eyesB
+  rotate: false
+  xy: 853, 194
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+
+Girl2.png
+size: 976,370
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/E_Knife_1
+  rotate: false
+  xy: 528, 243
+  size: 431, 125
+  orig: 446, 127
+  offset: 1, 1
+  index: -1
+effect/E_Knife_2
+  rotate: false
+  xy: 528, 116
+  size: 372, 125
+  orig: 378, 127
+  offset: 1, 1
+  index: -1
+effect/E_Knife_3
+  rotate: false
+  xy: 528, 2
+  size: 376, 112
+  orig: 378, 119
+  offset: 1, 6
+  index: -1
+effect/Knife1
+  rotate: false
+  xy: 2, 13
+  size: 326, 355
+  orig: 326, 355
+  offset: 0, 0
+  index: -1
+effect/Knife2
+  rotate: false
+  xy: 330, 61
+  size: 196, 307
+  orig: 196, 307
+  offset: 0, 0
+  index: -1
+effect/Knife3
+  rotate: true
+  xy: 906, 97
+  size: 144, 68
+  orig: 144, 68
+  offset: 0, 0
+  index: -1
+effect/Zheng
+  rotate: true
+  xy: 330, 36
+  size: 23, 70
+  orig: 70, 70
+  offset: 20, 0
+  index: -1
